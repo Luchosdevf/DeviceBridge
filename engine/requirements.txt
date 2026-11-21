@@ -1,0 +1,4 @@
+psutil>=7.0
+pydantic>=2.10
+pytest>=8.0
+rich>=14.0

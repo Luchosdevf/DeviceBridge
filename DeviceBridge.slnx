@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DeviceBridge.App/DeviceBridge.App.csproj" />
+    <Project Path="src/DeviceBridge.Core/DeviceBridge.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/" />
+  <Folder Name="/tests/csharp/">
+    <Project Path="tests/csharp/DeviceBridge.Tests/DeviceBridge.Tests.csproj" />
+  </Folder>
+</Solution>
