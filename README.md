@@ -131,4 +131,5 @@ This project is licensed under the **Apache License 2.0**. See the [LICENSE](LIC
   <strong>DeviceBridge</strong>
   <br>
   <sub>One place for your Android diagnostics.</sub>
+  <sub>No IA slop here</sub>
 </p>
