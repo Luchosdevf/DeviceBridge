@@ -103,6 +103,24 @@ DeviceBridge is still a work in progress. Its main focus is building a reliable 
 
 The project is being developed with modularity in mind, so new diagnostic checks and features can be added without having to rewrite the entire application.
 
+### Getting started
+
+```bash
+# C# app
+dotnet build
+dotnet run --project src/DeviceBridge.App
+
+# Python engine
+python3 -m venv .venv
+. .venv/bin/activate
+pip install -r engine/requirements.txt
+python engine/main.py
+
+# Tests
+dotnet test
+pytest tests/python
+```
+
 ## License
 
 This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
