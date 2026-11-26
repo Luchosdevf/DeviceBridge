@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/C%23-.NET%2010-512BD4?style=for-the-badge&logo=dotnet">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-GPL%20v3-blue?style=for-the-badge">
 </p>
 
 ---
@@ -123,7 +123,7 @@ pytest tests/python
 
 ## License
 
-This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
