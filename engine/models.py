@@ -1,3 +1,6 @@
+# DeviceBridge — Copyright (C) 2026 Luchosdevf
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 from __future__ import annotations
 from pydantic import BaseModel, Field
 

@@ -1,3 +1,6 @@
+# DeviceBridge — Copyright (C) 2026 Luchosdevf
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 """DeviceBridge engine — punto de entrada.
 
 Orquesta las comprobaciones (checks), el acceso a ADB y la generación
