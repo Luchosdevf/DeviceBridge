@@ -1,0 +1,11 @@
+<Project>
+  <!--
+    Workaround for broken .NET workload manifests after the SDK update
+    (workload set 10.0.112.1 references manifests no longer installed).
+    DeviceBridge is a desktop app and does not need .NET workloads.
+    Remove this file after running: sudo dotnet workload repair
+  -->
+  <PropertyGroup>
+    <MSBuildEnableWorkloadResolver>false</MSBuildEnableWorkloadResolver>
+  </PropertyGroup>
+</Project>
